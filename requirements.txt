@@ -1,0 +1,5 @@
+numpy==2.1.2
+matplotlib==3.9.2
+scikit-learn==1.5.2
+joblib==1.4.2
+Flask==3.0.3
