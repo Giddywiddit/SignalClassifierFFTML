@@ -5,7 +5,7 @@
 
 ---
 
-## 🧩 Overview
+## 🧩 Project Overview
 
 This project demonstrates how **Digital Signal Processing (DSP)** techniques, specifically the **Fast Fourier Transform (FFT)** — can be combined with **Machine Learning (ML)** to classify different types of signals.
 
