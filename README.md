@@ -32,12 +32,11 @@ This project bridges **electrical engineering**, **data science**, and **AI**, s
 ## 🧱 Project Structure
 
 SignalClassifierFFTML/
-│
 ├── src/
-│ ├── generate_signals.py # Signal generation and labeling
-│ ├── extract_fft_features.py # Converts signals into FFT features
-│ ├── train_classifier.py # ML model training and evaluation
-│ └── visualize_results.py # Visualization of results
+│ ├── generate_signals.py
+│ ├── extract_fft_features.py
+│ ├── train_classifier.py
+│ └── visualize_results.py
 │
 ├── data/
 │ ├── signals.npy
@@ -56,4 +55,3 @@ SignalClassifierFFTML/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
