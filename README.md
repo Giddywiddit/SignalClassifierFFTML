@@ -1,4 +1,4 @@
-# 🎧 Signal Classifier using FFT & Machine Learning  
+# 🎧 Signal Classifier using FFT & Machine Learning Model 
 *A hybrid DSP + AI project built in Python*
 
 ![Banner](plots/frequency_spectrum.png)
