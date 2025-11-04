@@ -7,12 +7,12 @@
 
 ## 🧩 Overview
 
-This project demonstrates how **Digital Signal Processing (DSP)** techniques — specifically the **Fast Fourier Transform (FFT)** — can be combined with **Machine Learning (ML)** to classify different types of signals.
+This project demonstrates how **Digital Signal Processing (DSP)** techniques, specifically the **Fast Fourier Transform (FFT)** — can be combined with **Machine Learning (ML)** to classify different types of signals.
 
 The goal:  
-👉 Convert raw **time-domain signals** (like sine and square waves) into the **frequency domain**, extract numerical features, and train an ML model to recognize signal types automatically.
+👉 Convert raw **time-domain signals** (like sine or square waves) into the **frequency domain**, extract numerical features and train an ML model to recognize signal types automatically.
 
-This project bridges **electrical engineering**, **data science**, and **AI**, showing the practical integration of **signal analysis with machine learning workflows**.
+This project bridges **Electronic Engineering**, **Data Science** and **AI** showing the practical integration of **Signal analysis with machine learning workflows**.
 
 ---
 
